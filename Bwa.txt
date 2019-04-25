@@ -1,0 +1,12 @@
+Thing to be on the lookout for: Hardware based encryption(lower power consumption)[1]
+
+Wireless protocols to look for: Zigbee, Z-wave, Thread, Bluetooth, WiFi, LTE
+
+WSAN: Wireless Sensor/Actuator Network(look for wireless chips!)
+
+Microcontrollers, ARM-M series
+
+[1]Chung-Wen, H., & Wen-Ting, H. (2018).
+Power consumption and calculation requirement analysis of AES for WSN IoT.
+Sensors, 18(6), 1675, pp7.
+http://dx.doi.org/10.3390/s18061675 
